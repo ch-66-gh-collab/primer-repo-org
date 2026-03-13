@@ -1,3 +1,3 @@
 # primer-repo-org
 
-Luis Jesus Caballero Basilio
+hugo ivan soria lopez
